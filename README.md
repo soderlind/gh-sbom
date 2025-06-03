@@ -4,7 +4,7 @@ A zsh script to generate Software Bill of Materials (SBOM) for all repositories 
 
 ## Prerequisites
 
-1. **GitHub CLI (gh)**: Install using Homebrew
+1. **GitHub CLI (gh)**: Install using Homebrew ([other platforms](https://github.com/cli/cli#installation) are also supported)
    ```bash
    brew install gh
    ```
@@ -14,7 +14,7 @@ A zsh script to generate Software Bill of Materials (SBOM) for all repositories 
    gh auth login
    ```
 
-3. **jq**: JSON processor (usually pre-installed on macOS)
+3. **jq**: JSON processor, usually pre-installed on macOS ([other platforms](https://jqlang.org/download/) are also supported)
    ```bash
    brew install jq  # if not available
    ```
