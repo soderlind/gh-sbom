@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 # SBOM Collection Script for GitHub Repositories
 # Usage: ./gh-sbom-all.sh <repo-owner>
