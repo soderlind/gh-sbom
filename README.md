@@ -1,6 +1,6 @@
 # GitHub SBOM Collection Script
 
-A zsh script to generate Software Bill of Materials (SBOM) for all repositories owned by a GitHub user or organization using the GitHub CLI.
+A bash script to generate Software Bill of Materials (SBOM) for all repositories owned by a GitHub user or organization using the GitHub CLI.
 
 ## Prerequisites
 
