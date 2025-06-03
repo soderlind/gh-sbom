@@ -11,7 +11,7 @@
 
 ### Technical Requirements
 1. **GitHub CLI**: Utilize `gh` command-line tool for GitHub API interactions
-2. **Shell Script**: Bash/Zsh compatible script for macOS environment
+2. **Shell Script**: Bash compatible script for macOS environment
 3. **Date Formatting**: Use current date in ISO format (YYYY-MM-DD)
 4. **Output Directory**: Save all SBOM files in a structured manner
 
