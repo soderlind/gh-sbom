@@ -74,7 +74,7 @@ sbom-output/
 - ✅ **Input Validation**: Validates repository owner exists
 - ✅ **Prerequisites Check**: Verifies GitHub CLI installation and authentication
 - ✅ **Repository Discovery**: Fetches all active (non-archived) repositories
-- ✅ **SBOM Generation**: Creates SBOM for each repository using `gh sbom`
+- ✅ **SBOM Generation**: Creates SBOM for each repository using `gh api "repos/OWNER/REPO/dependency-graph/sbom`
 - ✅ **Error Handling**: Comprehensive error handling and retry logic
 - ✅ **Progress Tracking**: Real-time progress indicators and logging
 - ✅ **Rate Limiting**: Handles GitHub API rate limits gracefully
